@@ -1,0 +1,21 @@
+{
+  "name": "kevinproj1",
+  "version": "0.5.0",
+  "description": "Project shell for starting new projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "shell"
+  ],
+  "author": "Kevin Milam",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^17.5.1",
+    "inert": "^5.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^2.9.1"
+  }
+}
